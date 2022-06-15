@@ -1,0 +1,1 @@
+SELECT * FROM Proveedor WHERE Proveedor.Pais ='España';
